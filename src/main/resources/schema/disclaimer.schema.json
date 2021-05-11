@@ -1,0 +1,43 @@
+{
+  "$id": "#/properties/dimensions",
+  "description": "An address similar to http://microformats.org/wiki/h-card",
+  "type": "object",
+  "dimensions": {
+    "$id": "#/properties/dimensions",
+    "type": "String",
+    "title": "The Dimensions Schema",
+    "description": "An explanation about the purpose of this instance.",
+    "readOnly": true,
+    "writeOnly": false,
+    "required": [
+      "width",
+      "height"
+    ],
+    "properties": {
+      "width": {
+        "$id": "#/properties/dimensions/properties/width",
+        "type": "integer",
+        "title": "The Width Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": 0,
+        "examples": [
+          5
+        ],
+        "readOnly": true,
+        "writeOnly": false
+      },
+      "height": {
+        "$id": "#/properties/dimensions/properties/height",
+        "type": "integer",
+        "title": "The Height Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": 0,
+        "examples": [
+          10
+        ],
+        "readOnly": true,
+        "writeOnly": false
+      }
+    }
+  }
+}

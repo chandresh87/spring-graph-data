@@ -1,0 +1,26 @@
+{
+    jpoDisclaimers(searchInput:
+    {
+       path:"/content/dam/content-services/ipbol/disclaimers/fragments"
+        limit: -1,
+        offset: 0,
+
+    })
+    {
+        hits,
+        success,
+        numberOfPages,
+        total,
+        offset,
+        jpoDisclaimers{
+          id,
+          platforms,
+          startDate,
+          endDate,
+          lastPublished,
+          ecmnexusID,
+          title,
+		description,
+        }
+    }
+}

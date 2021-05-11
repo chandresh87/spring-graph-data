@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: content-mng
+  neo4j:
+    uri: bolt://localhost:7687
+    authentication:
+      username: neo4j
+      password: secret
+  #  data:
+#    neo4j:
+
+
+
+        
