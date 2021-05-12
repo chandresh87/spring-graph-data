@@ -1,0 +1,81 @@
+{
+	"data": {
+		"Disclaimers": {
+		
+			"Disclaimers": [{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/lon/en/---supplemental-terms-lon",
+					"platforms": [
+						"LON"
+					],
+					"startDate": "",
+					"endDate": "",
+					"lastPublished": "2021-05-10T08:52:53.450-04:00",
+					"ecmnexusID": "",
+					"title": "Supplemental Terms LON (Updates for version compare)",
+					"lang": "en"
+					
+				},
+				{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/lux/en/---terms-of-use_lux",
+					"platforms": [
+						"LUX"
+					],
+					"startDate": "2021-04-25T21:16:00.000+05:30",
+					"endDate": "2021-10-31T21:16:00.000+05:30",
+					"lastPublished": "2021-05-10T08:52:01.701-04:00",
+					"ecmnexusID": "",
+					"title": "Terms of Use_LUX",
+					"lang": "en"
+				},
+				{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/jib/en/---terms-of-use_fra",
+					"platforms": [
+						"JIB"
+					],
+					"startDate": "",
+					"endDate": "",
+					"lastPublished": "2021-05-10T08:51:10.748-04:00",
+					"ecmnexusID": "",
+					"title": "Terms of Use_JIB",
+					"lang": "en"
+				},
+				{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/cdg/fr/---terms-of-use_par",
+					"platforms": [
+						"PAR"
+					],
+					"startDate": "",
+					"endDate": "",
+					"lastPublished": "2021-05-10T08:47:04.236-04:00",
+					"ecmnexusID": "",
+					"title": "Terms of Use_PAR",
+					"lang": "en"
+				},
+				{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/fra/de/---terms-of-use_fra",
+					"platforms": [
+						"FRA"
+					],
+					"startDate": "",
+					"endDate": "",
+					"lastPublished": "2021-05-10T08:45:00.924-04:00",
+					"ecmnexusID": "",
+					"title": "Terms of Use_FRA",
+					"lang": "en"
+				},
+				{
+					"id": "/content/dam/content-services/ipbol/disclaimers/fragments/gva/en/---terms-of-use_gva",
+					"platforms": [
+						"GVA"
+					],
+					"startDate": "",
+					"endDate": "",
+					"lastPublished": "2021-05-10T08:41:26.352-04:00",
+					"ecmnexusID": "",
+					"title": "Terms of Use_GVA",
+					"lang": "es"
+				}
+			]
+		}
+	}
+}
